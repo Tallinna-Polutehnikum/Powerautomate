@@ -6,6 +6,10 @@
 - Sotsiaalmeedia keskkonnad ja nende kasutamine
 - Pilveteenuste alused
 
+Tunnimaht: 
+- auditoorne 4 tundi;
+- praktiline 4 tundi;
+- iseseisev 18 
 
 ## Grupitöö tarkvara Office365 näitel
 - Outlook
